@@ -1,0 +1,2 @@
+# diamondclub
+Static site: diamondclub
